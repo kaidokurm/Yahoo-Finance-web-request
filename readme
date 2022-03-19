@@ -1,4 +1,4 @@
-This is made to get and analyse stocks statistics.
+This is made to get and analyse stocks statistics from Yahoo Finance.
 
 First you need to run 1_lhv_stocks_list.py to get the list of stocks. 
     It creates a file stocklist.txt
