@@ -1,0 +1,10 @@
+This is made to get and analyse stocks statistics.
+
+First you need to run 1_lhv_stocks_list.py to get the list of stocks. 
+    It creates a file stocklist.txt
+Then get the key statistics webpages from Yahoo Finance with file 2_web_scarper_yahhoo_finance.py.
+    It stores the files to directoy stockStatistic as a txt file
+And in the end analayse with 3_read_stocks_statistics.py.
+    It stores the result in to result.txt
+
+Requires library Beautiful Soup 
